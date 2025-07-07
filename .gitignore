@@ -33,7 +33,6 @@ ScaffoldingReadMe.txt
 
 # NuGet Packages
 *.nupkg
-# NuGet Symbol Packages
 *.snupkg
 
 # Others
@@ -52,3 +51,19 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Rider
+.idea/
+
+# Visual Studio & VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Secret files and local settings
+.env
+secrets.json
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
