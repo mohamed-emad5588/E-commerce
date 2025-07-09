@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "aj7uhT0PKDAhc1lhWEXkEVxSjCdNY5ZDWjhi2NAWpNQ=",
+  "Source": "E-commerce",
+  "BasePath": "_content/E-commerce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "E-commerce\\wwwroot",
+      "Source": "E-commerce",
+      "ContentRoot": "C:\\GP\\My-Github\\E-commerce\\wwwroot\\",
+      "BasePath": "_content/E-commerce",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\GP\\My-Github\\E-commerce\\wwwroot\\images\\products\\14e99928-86e3-4bf2-96db-c71ef79762bc.png",
+      "SourceId": "E-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GP\\My-Github\\E-commerce\\wwwroot\\",
+      "BasePath": "_content/E-commerce",
+      "RelativePath": "images/products/14e99928-86e3-4bf2-96db-c71ef79762bc.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\14e99928-86e3-4bf2-96db-c71ef79762bc.png"
+    },
+    {
+      "Identity": "C:\\GP\\My-Github\\E-commerce\\wwwroot\\images\\products\\6641d027-653f-40b2-b95b-5bde005dbe6a.png",
+      "SourceId": "E-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GP\\My-Github\\E-commerce\\wwwroot\\",
+      "BasePath": "_content/E-commerce",
+      "RelativePath": "images/products/6641d027-653f-40b2-b95b-5bde005dbe6a.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\6641d027-653f-40b2-b95b-5bde005dbe6a.png"
+    }
+  ]
+}
